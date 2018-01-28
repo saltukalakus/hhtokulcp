@@ -1,0 +1,11 @@
+﻿.sliderContentLeft { background: url("../../images/black_o50.png"); padding: 5px; border-radius: 5px; margin-left: -100px; margin; font-style: italic; }
+.sliderContentRight { background: url("../../images/black_o50.png"); padding: 5px; border-radius: 5px; margin-left: 40px; font-style: italic; }
+
+.table{height:400px;}
+.tab > table { width: 100%; }
+.tab td span { display: list-item; list-style-type: disc; }
+
+.text{width:1200px;padding-top:33px;}
+.text p span {display:list-item; list-style-type:disc;}
+.carousel-caption{padding:5px;}
+.sun2{margin-bottom:33px;}
